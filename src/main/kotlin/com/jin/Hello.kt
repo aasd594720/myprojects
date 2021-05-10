@@ -5,6 +5,14 @@ fun main() {
 //Human().hello()
     val h = Human()
     h.hello()
+
+    var age= 19;
+    age=20;
+
+    var wright :Float= 66.5f;
+    val name :String
+    name = "rr"
+
 }
 
 class Human{
