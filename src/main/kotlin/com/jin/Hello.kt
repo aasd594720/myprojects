@@ -6,7 +6,7 @@ fun main() {
     val h = Human()
     h.hello()
 
-    var age= 19;
+    var age= 20;
     age=20;
 
     var wright :Float= 66.5f;
